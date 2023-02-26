@@ -9,11 +9,12 @@ This code allows the user to submit a message that will be displayed in a wavy p
 4. Press ctrl-c to exit the application.
 
 ## Requirements
-•	Python3
-•	math library 
-•	shutil library 
-•	sys library 
-•	time library 
+	Python3
+	math library 
+	shutil library 
+	sys library 
+	time library 
+
 
 ## Limitations
 1. If the terminal window is enlarged while the application is running, the code may fail.
